@@ -1,37 +1,6 @@
-<h1>Welcome to GitHub Pages</h1>
+<h1>Welcome to Mario R. Blanco's blog</h1>
 
-You can use the [editor on GitHub](https://github.com/mrblanco/mrblanco.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I will be using this page to document my experiences navigating new datasets, code, and languages as I begin to volunteer at [HackforLA](https://www.hackforla.org/). The COVID19 pandemic has further highlighted to me the large inequalities that exist in society and in particular here in LA. Being faced with this reality I was inspired to donate some of my time to HackforLA due to their involvement in a variety of projects that are focused on addressing these inequalities and providing real working solutions to begin solving them.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mrblanco/mrblanco.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h2>Date: August 16, 2020 </h2>
+Today I have been exploring using Github pages to help create this blog post. One of my personal goals when I decided to join HackforLA was to become more proficient in using Github. Github has become more integrated in the academic world of the biologicaly sciences because it allows for the rapid distribution of code to perform analysis. I believe that it will become a more prominent component of the publication process as journals and fields try to make data analysis and results more reproducible. To generate this blog post I followed the instructions provided by [GithubPages](https://guides.github.com/features/pages/). I followed the link to this [Mastering Markdown](https://guides.github.com/features/mastering-markdown) site to begin getting more familiar with the Markdown syntax and incorporating it into this blog post.
